@@ -1,5 +1,5 @@
 HI  
-Second-Year CompSci at OU!   
+CompSci at OU!   
 Aiming for 8 hours of sleep a day.  
 
 ***
