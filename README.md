@@ -6,7 +6,7 @@ Outside of programming, I like to:
   - go to the gym 💪
 
 Feel free to reach out/connect with me on LinkedIn: https://www.linkedin.com/in/tiffanynguyenb4/ \
-I am always aiming for 8 hours of sleep a day.  \
+I am always aiming for 8 hours of sleep a day. 
 
 ***
   
