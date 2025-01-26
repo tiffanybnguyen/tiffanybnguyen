@@ -15,19 +15,20 @@ I like experimenting with new technologies, building small projects, and frolick
 * 🎒 Sophomore studying Computer Science with a minor in Math and Japanese at the University of Oklahoma
 * 📚 Researching LLMs and GUI agents under the best professor ever
 
-<br>
+#### And here are some (ambitious) goals:
+* 😴 get 8 hours of sleep a day
+* 🫂 be good to my parents
+* 🇯🇵 STUDY ABROAD IN JAPAN!! (Spring 26?)
+
 <br>
 
-#### And here are some (ambitious) goals:
-* 8 hours of sleep a day 😴
-* be good to my parents 🫂
-* STUDY ABROAD IN JAPAN!! (Spring 26?) 🇯🇵
+### Statistics! 
+![Tiffany's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiffanybnguyen&show_icons=true&theme=nightowl) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanybnguyen&layout=compact&hide=javascript,html,css&theme=nightowl)
 
 
 ***
   
 ![nyanko eating watermelon](https://github.com/tiffanybnguyen/tiffanybnguyen/assets/143210641/375f353a-88fe-4c50-9cfe-4ba03a7e7e83)
 
-And this is me on every level except physical!
-
-Nice to meet you!!
+***
