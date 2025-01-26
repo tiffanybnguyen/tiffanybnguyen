@@ -1,7 +1,33 @@
-Hi! My name is Tiffany Nguyen and I am an aspiring software developer studying computer science at the University of Oklahoma. Currently, I am learning react to hopefully learn more about frontend! 
+### Hi there 👋, I'm Tiffany!
+***
+<pre>
+  ∧,,,∧ 
+(  ̳• · • ̳) 
+/    づ♡ thanks for visiting my page, this heart is for u
+</pre>
+***
+I like experimenting with new technologies, building small projects, and frolicking out and about with my friends 😝 <br>
 
-My LinkedIn: https://www.linkedin.com/in/tiffanynguyenb4/ \
-I am always aiming for 8 hours of sleep a day.
+<br>
+
+#### Here's a list of things I currently busy myself with:
+* 👩🏻‍💻 Working as a Machine Learning Intern for the Department of Defense
+* 🎒 Sophomore studying Computer Science with a minor in Math and Japanese at the University of Oklahoma
+* 📚 Researching LLMs and GUI agents under the best professor ever
+
+<br>
+<br>
+
+#### And here are some (ambitious) goals:
+* 8 hours of sleep a day 😴
+* be good to my parents 🫂
+* STUDY ABROAD IN JAPAN!! (Spring 26?) 🇯🇵
+
+
 ***
   
 ![nyanko eating watermelon](https://github.com/tiffanybnguyen/tiffanybnguyen/assets/143210641/375f353a-88fe-4c50-9cfe-4ba03a7e7e83)
+
+And this is me on every level except physical!
+
+Nice to meet you!!
