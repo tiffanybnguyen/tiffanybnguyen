@@ -12,8 +12,8 @@ I like experimenting with new technologies, building small projects, and frolick
 
 #### Here's a list of things I currently busy myself with:
 * 👩🏻‍💻 Working as a Machine Learning Intern for the Department of Defense
-* 🎒 Sophomore studying Computer Science with a minor in Math and Japanese at the University of Oklahoma
-* 📚 Researching LLMs and GUI agents under the best professor ever
+* 🎒 Studying Computer Science with a minor in Math and Japanese at the University of Oklahoma
+* 📚 Researching LLMs, NLPs, and GUI agents under the best professor ever
 
 #### And here are some (ambitious) goals:
 * 😴 get 8 hours of sleep a day
