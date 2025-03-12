@@ -18,7 +18,7 @@ I like experimenting with new technologies, building small projects, and frolick
 #### And here are some (ambitious) goals:
 * 😴 get 8 hours of sleep a day
 * 🫂 be good to my parents
-* 🇯🇵 STUDY ABROAD IN JAPAN!! (Spring 26?)
+* 🇯🇵 STUDY ABROAD IN JAPAN!!
 
 <br>
 
