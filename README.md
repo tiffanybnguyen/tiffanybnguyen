@@ -12,7 +12,7 @@ I like experimenting with new technologies, building small projects, and frolick
 
 #### Here's a list of things I currently busy myself with:
 * 👩🏻‍💻 Working as a CS Ambassador for University of Oklahoma
-* 🎒 Studying Computer Science with a minor in Math and Japanese at the University of Oklahoma
+* 🎒 Studying Computer Science with a minor in Math and Japanese
 * 📚 Undergraduate researching, outreaching, and eating a lot of snacks
 
 #### And here are some (ambitious) goals:
